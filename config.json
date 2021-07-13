@@ -1,0 +1,7 @@
+[
+    {
+        "cookies": "自行抓取的登录后cookies（必填）",
+        "User-Agent": "自行抓取自己手机APP的UA，防黑(推测)",
+        "dingtalkWebhook": "钉钉通知 https://oapi.dingtalk.com/robot/send?access_token=xxxx（选填，不填请删除此行）",
+    }
+]
